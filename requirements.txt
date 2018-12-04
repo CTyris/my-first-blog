@@ -1,1 +1,1 @@
-Django~=2.0.6s
+Django==2.0.9
